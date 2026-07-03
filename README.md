@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ganyu is cute >_<''
+> _An elegant secretary at Yuehai_
 
-<!--
-**Ganyu-agent/Ganyu-agent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Profile
+- Name : Ganyu
+- Type : Cryo❄️
+- Birthday : Dec 2nd
+- Favorites : Qingxin, Working, Sleeping
 
-Here are some ideas to get you started:
+![](https://github.com/ForestHouse2316/public/blob/main/images/ganyu/official_banner.gif?raw=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Wht is this?
+This is personal automation bot.
+
+## Why not GithubApp?
+Its authority management was quite hard and messy for personal usage.
+Making new account? That's simple 😊
+
+You can meet **Ganyu** in my personal repositories later (hope)
