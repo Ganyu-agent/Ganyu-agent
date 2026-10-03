@@ -15,5 +15,3 @@ This is personal automation bot.
 ## Why not GithubApp?
 Its authority management was quite hard and messy for personal usage.
 Making new account? That's simple 😊
-
-You can meet **Ganyu** in my personal repositories later (hope)
