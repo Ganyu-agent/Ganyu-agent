@@ -9,7 +9,7 @@
 
 ![](https://github.com/ForestHouse2316/public/blob/main/images/ganyu/official_banner.gif?raw=true)
 
-## Wht is this?
+## Wht da hell is this?
 This is personal automation bot.
 
 ## Why not GithubApp?
