@@ -7,8 +7,7 @@
 - Birthday : Dec 2nd
 - Favorites : Qingxin, Working, Sleeping
 
-![](https://github.com/ForestHouse2316/public/blob/main/images/ganyu/official_banner.gif?raw=true)
-
+<img height="300" alt="banner" src="https://github.com/ForestHouse2316/public/blob/main/images/ganyu/official_banner.gif?raw=true" />
 
 ## Wht da hell is this?
 This is personal automation bot.
