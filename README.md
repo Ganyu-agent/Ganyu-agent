@@ -1,7 +1,7 @@
 # Ganyu is cute >_<''
 > _An elegant secretary at Yuehai_
 
-## Profile
+### Profile
 - Name : Ganyu
 - Type : Cryo❄️
 - Birthday : Dec 2nd
@@ -9,14 +9,16 @@
 
 <img height="300" alt="banner" src="https://github.com/ForestHouse2316/public/blob/main/images/ganyu/official_banner.gif?raw=true" />
 
-## Wht da hell is this?
+### Wht da hell is this?
 This is personal automation bot.
 
-## Why not GithubApp?
+... But **"_ACKCHYUALLY_"** I handle this account manually quite often.
+
+### Why not GithubApp?
 Its authority management was quite hard and messy for personal usage.
 Making new account? That's simple 😊
 
-## Other cuties
+### Other cuties... CUTE OR DIE ❤️
 <table>
   <tr>
     <td align="center">
